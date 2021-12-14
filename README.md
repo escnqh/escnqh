@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 #### About me
 
 Android Dev. in MTXX@Beijing
@@ -6,6 +7,11 @@ Android Dev. in MTXX@Beijing
 ----
 
 #### Languages
+
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escnqh&hide=HTML&langs_count=20&layout=compact"></p>
 
@@ -17,18 +23,6 @@ Android Dev. in MTXX@Beijing
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
-
-[![wakatime](https://wakatime.com/badge/user/5b958a7a-a467-4cfd-8988-644b22451379.svg)](https://wakatime.com/@5b958a7a-a467-4cfd-8988-644b22451379)
-<!--START_SECTION:waka-->
-```text
-Week: 06 December, 2021 - 12 December, 2021
-Vue.js       7 hrs 57 mins   ████████████████░░░░░░░░░   63.65 % 
-Other        2 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.66 % 
-JavaScript   1 hr 45 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-```
-<!--END_SECTION:waka-->
 
 #### Tools
 
