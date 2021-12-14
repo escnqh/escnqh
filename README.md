@@ -18,7 +18,7 @@ Android Dev. in MTXX@Beijing
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
 
-[![wakatime](https://wakatime.com/badge/user/c155eb8b-492c-4789-9b6b-7e127c268b4c.svg)](https://wakatime.com/@71877d58-88ba-4a68-934f-ddcc654b5da0)
+[![wakatime](https://wakatime.com/badge/user/5b958a7a-a467-4cfd-8988-644b22451379.svg)](https://wakatime.com/@5b958a7a-a467-4cfd-8988-644b22451379)
 <!--START_SECTION:waka-->
 ```text
 Week: 06 December, 2021 - 12 December, 2021
@@ -44,7 +44,7 @@ HTML         8 mins          ▒░░░░░░░░░░░░░░░░
 
 #### IDEs
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-000000.svg?style=flat-square&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white)
