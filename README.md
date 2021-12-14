@@ -8,7 +8,7 @@ Android Dev. in MTXX@Beijing
 
 #### Languages
 
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -29,7 +29,6 @@ Android Dev. in MTXX@Beijing
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
@@ -53,7 +52,7 @@ Android Dev. in MTXX@Beijing
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=youyinnn&show_icons=true&theme=panda"></p> -->
 
 
-<p align="center">Thanks</p>
+<p align="left">Thanks</p>
 <!--
 **escnqh/escnqh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
