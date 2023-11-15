@@ -2,7 +2,7 @@
 
 #### About me
 
-Android Dev. in MTXX@Beijing
+Dev. in MTXX@Beijing
 
 ----
 
