@@ -2,7 +2,7 @@
 
 #### About me
 
-Dev. in MTXX@Beijing
+Dev. in Beijing
 
 ----
 
